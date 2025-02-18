@@ -4,7 +4,7 @@
 
 📊 Current Status
 <p align="center">
-  <a href="https://solved.ac/profile/ac13578"><img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=JiwonEE2"/></a>
+  <a href="https://solved.ac/profile/ac13578"><img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ac13578"/></a>
 </p>
 
 🏃‍♂️ Problem Solving
