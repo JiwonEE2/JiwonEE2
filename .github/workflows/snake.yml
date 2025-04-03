@@ -27,7 +27,7 @@ jobs:
         with:
           github_user_name: JiwonEE2
           outputs: |
-            dist/github-snake.svg?color_snake=yellow&color_dots=#fbf1e5,#dbe7f3,#b1d9e2,#83c0df,#018fc7
+            dist/github-snake.svg?color_snake=#ff8d8f&color_dots=#fbf1e5,#dbe7f3,#b1d9e2,#83c0df,#018fc7
 
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
