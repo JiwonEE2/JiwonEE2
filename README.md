@@ -3,9 +3,9 @@
 # LEE JI WON
 
 # 📊 Current Status
-![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiwonEE2&show_icons=true&theme=radical)
+![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dori-Develop&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ac13578)](https://solved.ac/ac13578/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiwonEE2&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dori-Develop&layout=compact)
 
 # 📚 References
 <p align="center">
